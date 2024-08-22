@@ -14,13 +14,14 @@ Movie App is an Android application built using Kotlin. It allows users to brows
 
 !Screenshot 1 !Screenshot 2
 
-**Architecture ** : 
+**Architecture** : 
 The app follows the MVVM (Model-View-ViewModel) architecture pattern:
 
 - Model: Handles the data layer, including network requests and database operations.
 - View: Displays the data and interacts with the user.
 - ViewModel: Acts as a bridge between the Model and the View, managing UI-related data in a lifecycle-conscious way.
-** Libraries and Tools** :
+  
+**Libraries and Tools** :
 - Kotlin: Programming language used for development
 
 - Retrofit: For network requests
@@ -40,7 +41,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern:
 - Navigation Component: For handling navigation
 
 
-**Setup and Installation  ** : 
+**Setup and Installation** : 
 - Clone the repository:
 - git clone https://github.com/yourusername/movie-app.git
 
